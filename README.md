@@ -1,1 +1,2 @@
 # Kasprzak
+# Dokładnie tak było
